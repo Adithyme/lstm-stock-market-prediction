@@ -1,5 +1,5 @@
 # lstm-stock-market-prediction
-# 📈 LSTM Stock Market Price Prediction
+# LSTM Stock Market Price Prediction
 
 This project demonstrates the use of Long Short-Term Memory (LSTM) networks for forecasting stock prices using historical data. The goal is to explore the power of deep learning in time-series prediction by training an LSTM model on Apple Inc. (AAPL) stock prices.
 
@@ -80,7 +80,7 @@ This project demonstrates the effectiveness of LSTM networks in stock price pred
 
 ---
 
-## 🔗 Author
+##  Author
 
 Adithya CH 
 MSc Data Science | Aspiring Data Scientist  
